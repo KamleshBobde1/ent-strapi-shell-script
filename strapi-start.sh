@@ -1,6 +1,6 @@
 #!/bin/bash 
 echo "Strapi installation started" 
-npx create-strapi-app@latest strapi-by-script
+npx create-strapi-app strapi-by-script
 #npx create-strapi-app strapi-by-script --quickstart 
 
 echo "Strapi installation complete"
