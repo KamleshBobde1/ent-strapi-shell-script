@@ -1,10 +1,11 @@
 # ent-strapi-shell-script
-## The shell script to automate strapi project creation with customized code. Postgres database is recommended.
+## The shell script to automate strapi project creation with customized code. Postgres database is required.
 
 ### Prerequisites:
  - Create a database in Postgres for Strapi project.
  - Keep the database name, username, password, ip address and database port handy.
  - Keep realm name (Ex. entando) and App Builder url (Ex. http://192.168.43.3.nip.io) handy.
+ - Keep machine IP(Ex. 172.40.0.142) and port (Ex. 1337) handy where strapi project will run on.
 ### Steps to follow with the script:
 1. Pull the script from repo:
   $ `git clone https://github.com/KamleshBobde1/ent-strapi-shell-script.git`
