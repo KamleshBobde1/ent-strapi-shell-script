@@ -30,4 +30,4 @@
   - It may take few minutes to build Admin UI with development congigurations.
 14. Once `http://localhost:1337/admin` message is appeared, go to this link and create your first administrator 💻 by going to the administration panel at: http://localhost:1337/admin
 15. Login, go to Admin panel and set a username for Admin user.
-
+16. This shell script will create a strapi project under dir: `strapi-by-script415`
